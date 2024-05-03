@@ -1,0 +1,16 @@
+C:\Programozás\WPF\NoteCode\bin\Debug\NoteCode.exe.config
+C:\Programozás\WPF\NoteCode\bin\Debug\NoteCode.exe
+C:\Programozás\WPF\NoteCode\bin\Debug\NoteCode.pdb
+C:\Programozás\WPF\NoteCode\obj\Debug\NoteCode.csproj.AssemblyReference.cache
+C:\Programozás\WPF\NoteCode\obj\Debug\MainWindow.g.cs
+C:\Programozás\WPF\NoteCode\obj\Debug\App.g.cs
+C:\Programozás\WPF\NoteCode\obj\Debug\NoteCode_MarkupCompile.cache
+C:\Programozás\WPF\NoteCode\obj\Debug\NoteCode_MarkupCompile.lref
+C:\Programozás\WPF\NoteCode\obj\Debug\MainWindow.baml
+C:\Programozás\WPF\NoteCode\obj\Debug\NoteCode.g.resources
+C:\Programozás\WPF\NoteCode\obj\Debug\NoteCode.Properties.Resources.resources
+C:\Programozás\WPF\NoteCode\obj\Debug\NoteCode.csproj.GenerateResource.cache
+C:\Programozás\WPF\NoteCode\obj\Debug\NoteCode.csproj.CoreCompileInputs.cache
+C:\Programozás\WPF\NoteCode\obj\Debug\NoteCode.exe
+C:\Programozás\WPF\NoteCode\obj\Debug\NoteCode.pdb
+C:\Programozás\WPF\NoteCode\obj\Debug\style.baml
